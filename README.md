@@ -1,7 +1,3 @@
-Here's an **attractive and well-structured README file** tailored to the contents of your project:
-
----
-
 # 🌟 **TCS CodeVita 2024 Solutions Repository**
 
 Welcome to the **TCS CodeVita 2024** solutions hub! 🚀 This repository contains various programming solutions designed to tackle competitive problems efficiently and effectively. Whether you are preparing for **CodeVita** or other coding contests, this repository is a perfect companion to sharpen your skills! 💻✨
@@ -114,5 +110,3 @@ For any queries, feel free to reach out:
 This repository is licensed under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you'd like to save this README to a file or if there are any additional details you'd like to include!
